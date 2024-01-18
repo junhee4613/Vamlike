@@ -257,7 +257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   t: 0
   spd: 5
-  posA: 0.55
-  posB: 0.45
+  posA: 2
+  posB: 2
   master: {fileID: 0}
   enemy: {fileID: 0}
